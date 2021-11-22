@@ -42,8 +42,9 @@ a:active {
 
 
 p {
-    width: 640;
+    width: 640px;
     max-width: 100%;
+    margin: auto;
 }
 
 iframe{
