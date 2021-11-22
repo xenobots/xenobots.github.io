@@ -5,9 +5,10 @@ body{
 }
 
 img {
-  width: 100% ;
-  hieght: auto ;
-}
+   width: auto ;
+   max-width: 100% ;
+   height: auto ;
+ }
 
 a.enter{
     color:black;
