@@ -4,6 +4,12 @@ body{
     padding-bottom: 70px;
 }
 
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
+
 a.enter{
     color:black;
     text-decoration: none;
