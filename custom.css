@@ -41,9 +41,9 @@ a:active {
 }
 
 
-p {
-    max-width: 400px ;
-}
+/* p {
+    max-width: 400;
+} */
 
 iframe{
     width: 640;
